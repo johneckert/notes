@@ -1,0 +1,16 @@
+createdAt: "2018-08-23T13:50:19.022Z"
+updatedAt: "2018-08-23T14:19:36.773Z"
+type: "MARKDOWN_NOTE"
+folder: "6db4e4ea7dad5f986f51"
+title: "Catalyst To Be Addressed"
+content: '''
+  ## Catalyst To Be Addressed
+  
+  - ~~There should be events raised when you mouse over an SVG component that pass it's data~~
+  - **Docs pg 24:** data example image headings is an object w/o a key? - I believe it should just be the array
+  - **For Documentation:** v-cards & catalyst components require @click.native to add a click function
+  - **Improve theme mixin implementation**
+'''
+tags: []
+isStarred: false
+isTrashed: false
